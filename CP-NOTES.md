@@ -1,10 +1,22 @@
-Xuanyu’s CP Notes
+# Xuanyu's CP Notes
+
 我的算法题解与比赛复盘：
-打开公开题解站
-最近题解
-	•	Teleporter｜从显式分层图到两遍树形 DP 
-	•	2025 ICPC 网络赛第一场 D｜Min-Max Tree 
-进入题解站后，在“最近题解”中搜索标题即可阅读完整文章和参考代码。
-个人简介
-GitHub 个人主页
-个人主页的 Profile / 个人简介位于首页导航的“Profile（简介）”部分。
+
+公开题解站：
+https://xuanyu-cp-notes.jxy2234604343.chatgpt.site/
+
+GitHub 个人主页：
+https://github.com/xuanyu-ji
+
+GitHub 个人主页仓库：
+https://github.com/xuanyu-ji/xuanyu-ji.github.io
+
+最近题解：
+
+- Teleporter｜从显式分层图到两遍树形 DP
+  https://xuanyu-cp-notes.jxy2234604343.chatgpt.site/#solutions
+- 2025 ICPC 网络赛第一场 D｜Min-Max Tree
+  https://xuanyu-cp-notes.jxy2234604343.chatgpt.site/#solutions
+
+个人简介位于个人主页首页的 Profile / 个人简介部分：
+https://xuanyu-ji.github.io/#profile
